@@ -1,4 +1,4 @@
-# mocap4r2_msgs
+# mocap_msgs
 This repository contains the ROS messages for Motion Capture Systems
 
 ## About MOCAP4ROS2
